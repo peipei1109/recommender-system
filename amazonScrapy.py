@@ -20,9 +20,9 @@ stopWords=stopwords.words('english')+[',','.',';','/','+','-',"'s","a","'","__",
 
 
 
-AMAZON_ASSOC_TAG="aboyker-20"
-AMAZON_ACCESS_KEY="AKIAJBME4RR2AL2IWKYA"
-AMAZON_SECRET_KEY="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"
+AMAZON_ASSOC_TAG="xxx"
+AMAZON_ACCESS_KEY="xxx"
+AMAZON_SECRET_KEY="xxx+GsFu"
 amazon = AmazonAPI(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG)
 
 
